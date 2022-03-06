@@ -13,6 +13,7 @@
 		656468D827D4A7F10008346A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 656468D627D4A7F10008346A /* Main.storyboard */; };
 		656468DA27D4A7F50008346A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 656468D927D4A7F50008346A /* Assets.xcassets */; };
 		656468DD27D4A7F50008346A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 656468DB27D4A7F50008346A /* LaunchScreen.storyboard */; };
+		656468E527D4A8B10008346A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 656468E427D4A8B10008346A /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		656468D927D4A7F50008346A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		656468DC27D4A7F50008346A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		656468DE27D4A7F50008346A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		656468E427D4A8B10008346A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				656468D927D4A7F50008346A /* Assets.xcassets */,
 				656468DB27D4A7F50008346A /* LaunchScreen.storyboard */,
 				656468DE27D4A7F50008346A /* Info.plist */,
+				656468E427D4A8B10008346A /* GoogleService-Info.plist */,
 			);
 			path = AppFBAuth20220306;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				656468DD27D4A7F50008346A /* LaunchScreen.storyboard in Resources */,
+				656468E527D4A8B10008346A /* GoogleService-Info.plist in Resources */,
 				656468DA27D4A7F50008346A /* Assets.xcassets in Resources */,
 				656468D827D4A7F10008346A /* Main.storyboard in Resources */,
 			);
